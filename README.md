@@ -1,6 +1,6 @@
 oFSoundFirmataExample
 =====================
-<a href=" https://vimeo.com/68502405"><img src="https://secure-b.vimeocdn.com/ts/440/919/440919647_295.jpg"/></a><br/>
+<img src="https://secure-b.vimeocdn.com/ts/440/919/440919647_295.jpg"><br/>
 
 Video for the sound demo here: https://vimeo.com/68502405
 
